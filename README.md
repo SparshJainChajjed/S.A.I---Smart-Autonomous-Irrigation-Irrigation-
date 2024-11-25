@@ -103,4 +103,4 @@ The system employs a lightweight regression model to:
 ### **Software Setup**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/precise-irrigation.git
+   git clone https://github.com/@eshaan46/Smart-Autonomouse-Irrigation/.git
