@@ -68,7 +68,7 @@ A regression model was chosen because it provides a continuous prediction of wat
   - 3 = Barley
   - 4 = Legumes
   - 5 = Sugarcane
-- **Rain Volume**: 0-2 (where 2 indicates heavy rainfall).
+- **Rain Volume**: 0-2 (where 2 indicates heavy rainfall)
 
 ---
 
